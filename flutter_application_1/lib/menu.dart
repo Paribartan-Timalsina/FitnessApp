@@ -20,7 +20,7 @@ class _MenuState extends State<Menu> {
           borderRadius: BorderRadius.circular(20),
 
         ),
-        child: Center(child: Text("Hello")),
+          child: Center(child: Text('Recommended Ones')),
       ),
     );
   }
